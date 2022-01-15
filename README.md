@@ -1,5 +1,4 @@
-# Lab0
-Lab0: Getting Acquainted with XINU
+# Lab0: Getting Acquainted with XINU
 
 See xinu-setup.html for Xinu setup.
 
