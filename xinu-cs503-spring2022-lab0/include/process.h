@@ -38,6 +38,10 @@
 
 #define NDESC		5	/* must be odd to make procent 4N bytes	*/
 
+/* Debug and test flag */
+#define XTEST		0
+#define	XDEBUG		1
+
 /* Definition of the process table (multiple of 32 bits) */
 
 struct procent {		/* Entry in the process table		*/
